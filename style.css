@@ -1,0 +1,58 @@
+p img{
+  background-color: coral;  
+  border-radius: 10px;
+  padding: 10px;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+body {
+    font-family: sans-serif;
+    color: navy;
+    font-size: 25px;
+}
+
+header {
+background-color: aquamarine;
+border: 3px solid aquamarine;
+border-radius:10px;
+padding:20px;
+
+}
+
+a {
+background-color: white;
+border-radius:10px;
+border: 2px solid navy;
+margin: 10px;
+padding:5px;
+text-decoration:none;
+
+}
+
+h1{    
+    color: navy;
+    background-color: aqua;
+    border: 2px solid aqua;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+h2{
+  background-color: lightgreen;
+  color: navy;
+  border: 2px solid lightgreen;
+  border-radius: 5px;
+  padding: 5px;
+
+}
+
+footer p{
+    background-color: lightgreen;
+    border-radius: 5px;
+    padding: 5px;   
+    
+}
